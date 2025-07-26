@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; padding: 12px; width: 250px;}
+button { font-size: 12px;font-weight: 700; margin: 5px 0; padding: 8px 12px; border-radius: 20px;}
+#history { margin-top: 10px; }
+.color-item { display: flex; align-items: center; margin-bottom: 5px; }
+.box { width: 20px; height: 20px; margin-right: 8px; border: 1px solid #ccc; }
+p{font-size: 20px; font-weight: 400;}
+h4{font-size: 16px; font-weight: 600}
