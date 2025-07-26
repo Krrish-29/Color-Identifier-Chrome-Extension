@@ -14,7 +14,7 @@ A chrome extension that allows users to get the exact hex color code of a pixel 
 
 
 
-# 🌈 Key Features of the Color Picker Extension
+# 🌈 Key Features of the Extension
 Click-to-Pick 🎯 Instantly grab the color of any pixel on any webpage with a simple click.
 
 Hex + RGB Conversion 🔄 View precise hex and RGB values for chosen colors—great for designers and developers alike.
